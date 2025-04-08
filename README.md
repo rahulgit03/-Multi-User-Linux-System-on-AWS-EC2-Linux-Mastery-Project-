@@ -1,6 +1,6 @@
 # -Multi-User-Linux-System-on-AWS-EC2-Linux-Mastery-Project-
 
-# 👥 Multi-User Linux System on AWS EC2 (Linux Mastery Project)
+
 
 ## 🔥 Why This Mini-Project?
 Earlier, I forgot to stop my EC2 instance at night and wasted AWS resources 😅. That made me realize: **"Let’s build cool mini projects daily to become Linux masters and stay within free tier!"**
